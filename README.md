@@ -51,10 +51,10 @@ Teknik Informatika, Manajemen, Akuntansi, Sistem Informasi, Teknik Elektro.
 2. Klik **Simpan**. Jika ada kolom kosong, muncul pesan peringatan. Jika lengkap, data tampil pada kotak hasil:
    ```
    --- DATA BERHASIL DISIMPAN ---
-   Nama          : ...
-   NIM           : ...
-   Program Studi : ...
-   Alamat        : ...
+   Nama          : Muhammad Auliyak Akbar
+   NIM           : 2595114019
+   Program Studi : Teknik Informatika
+   Alamat        : Ds keras, Kec Diwek, Kab Jombang
    ```
 3. Klik **Reset** untuk mengosongkan seluruh input dan hasil.
 4. Klik **Keluar** lalu pilih **Yes** untuk menutup aplikasi.
